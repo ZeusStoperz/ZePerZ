@@ -1,4 +1,4 @@
-## REUZSC
+## ZEPERZ
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/zeusstoperz/zeperz
+> cd zeperz
 > bash install.sh
 > node index.js
 ```
@@ -25,9 +25,12 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 # FITUR
 
-| KEADAAN       |               FITUR     |
-| :-----------: | :--------------------------------:  |
-|       ✅       |    PANTUN                         |
+
+</s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </ s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s> orang </s>
+| KEADAAN | FITUR |
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+| : -----------: | : --------------------------------: | z
+| ✅ | PANTUN |
 |       ✅       | ANIMEPICT                         |
 |       ✅       | STICKER                           |
 |       ✅       | NULIS                             |
